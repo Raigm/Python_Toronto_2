@@ -1,0 +1,20 @@
+name_to_rating = {
+  'Deep Fried Everything': 52,
+  'Georgie Porgie': 87,
+  'Mexican Grill': 85,
+  'Dumplings R Us': 71,
+  'Queen St. Cafe': 82}
+
+price_to_names = {
+  '$$': ['Mexican Grill'],
+  '$': ['Queen St. Cafe', 'Dumplings R Us', 'Deep Fried Everything'],
+  '$$$': ['Georgie Porgie'],
+  '$$$$': []}
+
+cuisine_to_names = {
+  'Pub Food': ['Georgie Porgie', 'Deep Fried Everything'],
+  'Thai': ['Queen St. Cafe'],
+  'Chinese': ['Dumplings R Us'],
+  'Malaysian': ['Queen St. Cafe'],
+  'Canadian': ['Georgie Porgie'],
+  'Mexican': ['Mexican Grill']}
