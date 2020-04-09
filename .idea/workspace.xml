@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7dbf248b-cfa4-4512-922b-b3a1d33a1bce" name="Default" comment="unit tests done">
+    <list default="true" id="7dbf248b-cfa4-4512-922b-b3a1d33a1bce" name="Default" comment="debugging test_swap_k.py">
+      <change afterPath="$PROJECT_DIR$/week3/binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/bubble.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/insertion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/linear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/selection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/a2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week2/assignment/checks_a1.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2/assignment/checks_a1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/assignment/test_swap_k.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2/assignment/test_swap_k.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +25,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1a7WqlVpiaikukwtJuIRW79jSv8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -32,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/week2/test_divisors.py" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
@@ -43,7 +50,7 @@
       <recent name="C:\Users\raigo\Documents\Python_Toronto_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Nosetests in test_swap_k.py">
+  <component name="RunManager" selected="Python.checks_a1">
     <configuration name="checks_a1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_course_coursera" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,22 +134,22 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_regexPattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/week2/assignment/test_swap_k.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/../../Python MOOC\u0027s/Python_Toronto_2/week2/assignment/test_swap_k.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.checks_a1" />
-      <item itemvalue="Python tests.Nosetests for test_swap_k.TestSwapK" />
       <item itemvalue="Python.test_swap_k-2" />
+      <item itemvalue="Python tests.Nosetests for test_swap_k.TestSwapK" />
       <item itemvalue="Python tests.Nosetests for test_swap_k.TestSwapK.test_swap_k_4" />
       <item itemvalue="Python tests.Nosetests in test_swap_k.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.checks_a1" />
         <item itemvalue="Python tests.Nosetests in test_swap_k.py" />
         <item itemvalue="Python tests.Nosetests for test_swap_k.TestSwapK.test_swap_k_4" />
-        <item itemvalue="Python.checks_a1" />
         <item itemvalue="Python.test_swap_k-2" />
         <item itemvalue="Python tests.Nosetests for test_swap_k.TestSwapK" />
       </list>
@@ -180,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586430463412</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="debugging test_swap_k.py">
+      <created>1586440155611</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586440155611</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -188,13 +202,14 @@
     <MESSAGE value="palindrom v3" />
     <MESSAGE value="changing structure" />
     <MESSAGE value="unit tests done" />
-    <option name="LAST_COMMIT_MESSAGE" value="unit tests done" />
+    <MESSAGE value="debugging test_swap_k.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="debugging test_swap_k.py" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="455" y="8" key="CommitChangelistDialog2" timestamp="1586430484686">
+    <state x="455" y="8" key="CommitChangelistDialog2" timestamp="1586440153243">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="455" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586430484686" />
+    <state x="455" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586440153243" />
     <state x="860" y="100" width="583" height="624" maximized="true" key="DiffContextDialog" timestamp="1586427761909">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -203,49 +218,53 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="932" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586427721680" />
-    <state width="1515" height="193" key="GridCell.Tab.0.bottom" timestamp="1586440012671">
+    <state width="1515" height="261" key="GridCell.Tab.0.bottom" timestamp="1586452662619">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="193" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586440012671" />
-    <state width="1515" height="193" key="GridCell.Tab.0.center" timestamp="1586440012671">
+    <state width="1515" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586452662619" />
+    <state width="1515" height="261" key="GridCell.Tab.0.center" timestamp="1586452662619">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="193" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586440012671" />
-    <state width="1515" height="193" key="GridCell.Tab.0.left" timestamp="1586440012671">
+    <state width="1515" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586452662619" />
+    <state width="1515" height="261" key="GridCell.Tab.0.left" timestamp="1586452662619">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="193" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586440012671" />
-    <state width="1515" height="193" key="GridCell.Tab.0.right" timestamp="1586440012671">
+    <state width="1515" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586452662619" />
+    <state width="1515" height="261" key="GridCell.Tab.0.right" timestamp="1586452662619">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="193" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586440012671" />
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1586439933049">
+    <state width="1515" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586452662619" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1586452662619">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586439933049" />
-    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1586439933049">
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586452662619" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1586452662619">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586439933049" />
-    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1586439933048">
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586452662619" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1586452662619">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586439933048" />
-    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1586439933049">
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586452662619" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1586452662619">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586439933049" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586452662619" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1586425798403">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586425798403" />
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1586430572154">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1586440158308">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1586430572154" />
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586420954539">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1586440158308" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586452774000">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586420954539" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586452774000" />
+    <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586452869971">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1586452869971" />
   </component>
 </project>
