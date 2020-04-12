@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dbf248b-cfa4-4512-922b-b3a1d33a1bce" name="Default" comment="debugging test_swap_k.py">
-      <change afterPath="$PROJECT_DIR$/week3/binary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/bubble.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/insertion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/linear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/selection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/a2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/cash_register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/playlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/song.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/assignment/maze.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/assignment/rat_race.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/example1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/function_passing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/greeting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/nth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/nth_precondition.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/assignment/checks_a1.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2/assignment/checks_a1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/a2.py" beforeDir="false" afterPath="$PROJECT_DIR$/week5/assignment/a2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,18 +44,19 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/week2/test_divisors.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/week5/assignment/rat_race.py" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
-    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/week2/test_divisors.py" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/week5/assignment/rat_race.py" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\raigo\Documents\Python MOOC's\Python_Toronto_2\week5\assignment" />
       <recent name="C:\Users\raigo\Documents\Python_Toronto_2\week1" />
       <recent name="C:\Users\raigo\Documents\Python_Toronto_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.checks_a1">
-    <configuration name="checks_a1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.rat_race">
+    <configuration name="rat_race" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_course_coursera" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +64,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2/assignment" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week5/assignment" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/assignment/checks_a1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week5/assignment/rat_race.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,86 +77,92 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_swap_k-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_course_coursera" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/test_swap_k-2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Nosetests for test_swap_k.TestSwapK" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctest Maze.get_character" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="Python_course_coursera" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2/assignment" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week5/assignment" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_regexPattern" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_swap_k.TestSwapK&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week5/assignment/a2.py" />
+      <option name="CLASS_NAME" value="Maze" />
+      <option name="METHOD_NAME" value="get_character" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Nosetests for test_swap_k.TestSwapK.test_swap_k_4" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctest Maze.is_wall" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="Python_course_coursera" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2/assignment" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week5/assignment" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_regexPattern" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_swap_k.TestSwapK.test_swap_k_4&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week5/assignment/a2.py" />
+      <option name="CLASS_NAME" value="Maze" />
+      <option name="METHOD_NAME" value="is_wall" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Nosetests in test_swap_k.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in Maze" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="Python_course_coursera" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2/assignment" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week5/assignment" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_regexPattern" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/../../Python MOOC\u0027s/Python_Toronto_2/week2/assignment/test_swap_k.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week5/assignment/a2.py" />
+      <option name="CLASS_NAME" value="Maze" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctests in a2" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="Python_course_coursera" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week5/assignment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week5/assignment/a2.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.checks_a1" />
-      <item itemvalue="Python.test_swap_k-2" />
-      <item itemvalue="Python tests.Nosetests for test_swap_k.TestSwapK" />
-      <item itemvalue="Python tests.Nosetests for test_swap_k.TestSwapK.test_swap_k_4" />
-      <item itemvalue="Python tests.Nosetests in test_swap_k.py" />
+      <item itemvalue="Python tests.Doctests in a2" />
+      <item itemvalue="Python.rat_race" />
+      <item itemvalue="Python tests.Doctests in Maze" />
+      <item itemvalue="Python tests.Doctest Maze.is_wall" />
+      <item itemvalue="Python tests.Doctest Maze.get_character" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.checks_a1" />
-        <item itemvalue="Python tests.Nosetests in test_swap_k.py" />
-        <item itemvalue="Python tests.Nosetests for test_swap_k.TestSwapK.test_swap_k_4" />
-        <item itemvalue="Python.test_swap_k-2" />
-        <item itemvalue="Python tests.Nosetests for test_swap_k.TestSwapK" />
+        <item itemvalue="Python.rat_race" />
+        <item itemvalue="Python tests.Doctest Maze.get_character" />
+        <item itemvalue="Python tests.Doctest Maze.is_wall" />
+        <item itemvalue="Python tests.Doctests in Maze" />
+        <item itemvalue="Python tests.Doctests in a2" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586440155611</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="debugging test_swap_k.py">
+      <created>1586452887500</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586452887500</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -206,34 +224,42 @@
     <option name="LAST_COMMIT_MESSAGE" value="debugging test_swap_k.py" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="455" y="8" key="CommitChangelistDialog2" timestamp="1586440153243">
+    <state x="861" y="93" width="582" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586634410305">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="455" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586440153243" />
-    <state x="860" y="100" width="583" height="624" maximized="true" key="DiffContextDialog" timestamp="1586427761909">
+    <state x="861" y="93" width="582" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1586634410305" />
+    <state x="910" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586631869418">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="860" y="100" width="583" height="624" maximized="true" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1586427761909" />
-    <state x="932" y="167" key="FileChooserDialogImpl" timestamp="1586427721680">
+    <state x="910" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1586631869418" />
+    <state x="455" y="8" key="CommitChangelistDialog2" timestamp="1586706104920">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="932" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586427721680" />
-    <state width="1515" height="261" key="GridCell.Tab.0.bottom" timestamp="1586452662619">
+    <state x="455" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586706104920" />
+    <state x="860" y="100" width="583" height="624" maximized="true" key="DiffContextDialog" timestamp="1586691991898">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586452662619" />
-    <state width="1515" height="261" key="GridCell.Tab.0.center" timestamp="1586452662619">
+    <state x="860" y="100" width="583" height="624" maximized="true" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1586691991898" />
+    <state x="932" y="167" key="FileChooserDialogImpl" timestamp="1586691656782">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586452662619" />
-    <state width="1515" height="261" key="GridCell.Tab.0.left" timestamp="1586452662619">
+    <state x="932" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586691656782" />
+    <state width="1515" height="194" key="GridCell.Tab.0.bottom" timestamp="1586706037559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586452662619" />
-    <state width="1515" height="261" key="GridCell.Tab.0.right" timestamp="1586452662619">
+    <state width="1515" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586706037559" />
+    <state width="1515" height="194" key="GridCell.Tab.0.center" timestamp="1586706037550">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586452662619" />
+    <state width="1515" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586706037550" />
+    <state width="1515" height="194" key="GridCell.Tab.0.left" timestamp="1586706037550">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586706037550" />
+    <state width="1515" height="194" key="GridCell.Tab.0.right" timestamp="1586706037559">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586706037559" />
     <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1586452662619">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -254,17 +280,32 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586425798403" />
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1586440158308">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1586452895298">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1586440158308" />
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586452774000">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1586452895298" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586513690841">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586452774000" />
-    <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586452869971">
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586513690841" />
+    <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586706115172">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1586452869971" />
+    <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1586706115172" />
+    <state x="796" y="2" width="711" height="819" key="find.popup" timestamp="1586632023334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="796" y="2" width="711" height="819" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1586632023334" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week4/playlist.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
